@@ -1,83 +1,51 @@
-# eleventy-base-blog
+# WDV463 Memory Lane Blog
+## <b>Keri Russin</b>
+---
 
-A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
+[Eleventy](https://github.com/11ty/eleventy) static site generator and method of deployment is [Netlify](https://www.netlify.com/).
 
-[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
+---
 
-## Demos
+<br>
 
-- [Netlify](https://eleventy-base-blog.netlify.com/)
-- [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
-- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
+### <b>Week 1</b>
+<b>Objective:</b> Deploy a static website to function as a blog or journal
 
-## Deploy this to your own site
+<b>Key topics:</b>
+<br>
+- Choosing suitable technology
+- Working with React or HTML for page structure
+- Utilizing a Headless CMS, Markdown, or other format for data
+- Utilizing CSS, TailwindCSS, Styled Components, or another styling solution
+- Managed through GitHub
+- Hosted via GitHub or a PaaS provider such as Netlify or Heroku
 
-Deploy this Eleventy site in just a few clicks on these services:
+<b>Overview:</b>
+<br>
+You will deploy a static website with customized styling and structure that will be content filled with at least 3 short posts on topics related to technology, something you've learned related to your studies recently, or a resource that you would like to review and share your thoughts on that is related to your studies.
 
-- [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
-- [Get your own Eleventy web site on Vercel](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
+---
+### <b>Assignment specifications:</b>
+1. Create your own layout
 
-Or, read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/).
+<span style="color:yellow">I recommend managing expectations and keeping the layout simple and clear</span>
 
-## Getting Started
+2. Create your own CSS
 
-### 1. Clone this Repository
+<span style="color:yellow">Style your website to be unique to you.</span>
 
-```
-git clone https://github.com/11ty/eleventy-base-blog.git my-blog-name
-```
+3. Create your own JavaScript
 
-### 2. Navigate to the directory
+<span style="color:yellow">JavaScript interactions are not the focus of this project, but meaningful uses will be recognized</span>
 
-```
-cd my-blog-name
-```
+4. Deploy Your Site
 
-Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
+<span style="color:yellow">We want to see this live on the web!</span>
 
-### 3. Install dependencies
+5. Site Features
 
-```
-npm install
-```
+- <span style="color:orange">At least one page that shows all posts. For example, this may be a home page or an archive page.</span>
 
-### 4. Edit \_data/metadata.json
+- <span style="color:orange">A layout for the posts to populate when individually visited</span>
 
-### 5. Run Eleventy
-
-```
-npx @11ty/eleventy
-```
-
-Or build and host locally for local development
-
-```
-npx @11ty/eleventy --serve
-```
-
-Or build automatically when a template changes:
-
-```
-npx @11ty/eleventy --watch
-```
-
-Or in debug mode:
-
-```
-DEBUG=* npx @11ty/eleventy
-```
-
-### Implementation Notes
-
-- `about/index.md` shows how to add a content page.
-- `posts/` has the blog posts but really they can live in any directory. They need only the `post` tag to be added to this collection.
-- Use the `eleventyNavigation` key in your front matter to add a template to the top level site navigation. For example, this is in use on `index.njk` and `about/index.md`.
-- Content can be any template format (blog posts needn’t be markdown, for example). Configure your supported templates in `.eleventy.js` -> `templateFormats`.
-- The `css` and `img` directories in the input directory will be copied to the output folder (via `addPassthroughCopy()` in the `.eleventy.js` file).
-- The blog post feed template is in `feed/feed.njk`. This is also a good example of using a global data files in that it uses `_data/metadata.json`.
-- This example uses three layouts:
-  - `_includes/layouts/base.njk`: the top level HTML structure
-  - `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
-  - `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
-- `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
-
+- <span style="color:orange">The ability to navigate between the generated pages</span>
