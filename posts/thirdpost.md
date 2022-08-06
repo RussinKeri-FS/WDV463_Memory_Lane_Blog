@@ -1,29 +1,22 @@
 ---
-title: This is my third post.
-description: This is a post on My Blog about win-win survival strategies.
-date: 2018-08-24
+title: What is the Average Web Developer Salary in 2022?
+description: This is a post on web developer salary
+date: 2022-08-07
 tags:
-  - second tag
-  - posts with two tags
+  - Web Developer
+  - Salary
+  - Development
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-```diff-js
-// this is a command
-function myCommand() {
-+	let counter = 0;
+---
 
--	counter++;
+## Are web developers in high demand?
 
-}
+Web development is one of the most popular and rapidly growing industries throughout the world. It's a great time to be a web developer of any kind. Despite the growth of this job industry, salaries continue to increase for web developers. 
 
-// Test with a line break above this line.
-console.log('Test');
-```
+The demand for web developers is at its most high. It is a very competitive industry. You'll need to know multiple languages and a wide variety of skills to get the best jobs out there. Keeping up with frameworks and languages is a major key to staying relevant in this industry.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Web developers are expected to grow 13% from 2018-2028.
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Web developer salary has been increasing since 2018. In 2018, the medin pay for all developers by Bureau of Labor was $69,430/year or $33.38/hour. As we continue throughout each year it rapidly has started to increase. Each developers role has a different type of pay grade. The salary can range from 60k - 153k according to reports and research. 

@@ -1,18 +1,29 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: What Does a Web Developer Do?
+description: This is a post is about what web developers do and how to become one
+date: 2022-08-06
 tags:
-  - number 2
+  - Development
+  - Web Developer
+  - Front-end
+  - Back-end
+  - Full-stack
+  - Webmasters
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+---
 
-<a href="{{ '/posts/firstpost/' | url }}">First post</a>
-<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+## What is a web developer?
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Well, a web developer's job is to create websites. Their primary role is to ensure that the website is visually appealing and easy to navigate, but it doesn't just stop there. Many web developers are also responsible fot the performance and capacity of a website.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+### Types of we developers
+
+- Back-end web developers create website structure, write code, and verify that the code works. Their responsibilities may also include managing access points for others that may need to manage a website's content.
+
+- Front-end web developers work on the visual parts of websites. This includes the pages visitors see and interact with, which is also know as the user interface. These developers design the physical layout of each page, integrate graphics, and use HTML and JavaScript to do enhancements to the site.
+
+- Full-stack developers do the work of both back-end and front-end development. They have the knowledge to build a complete website. 
+
+- Webmasters are basically website managers. Their primary role is to keep the website update. They ensure that the links and applications on each page work properly.
