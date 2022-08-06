@@ -9,7 +9,7 @@
 
 /* Theme colors */
 :root {
-  --color-gray-20: #e5e5e5;
+  --color-gray-20: #f2f2f2;
   --color-gray-50: #c0c0c0;
   --color-gray-90: #333;
 
@@ -28,11 +28,11 @@
     --color-gray-90: #dad8d8;
 
     /* --text-color is assigned to --color-gray-_ above */
-    --text-color-link: #2b4c5d;
-    --text-color-link-visited: #6a8595;
+    --text-color-link: #4A4E69;
+    --text-color-link-visited: #9A8C98;
     /* --text-color-link-hover assigned above */
 
-    --background-color: #1c282b;
+    --background-color: #22223B;
   }
 }
 
