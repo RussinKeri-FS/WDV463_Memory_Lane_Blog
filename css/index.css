@@ -16,9 +16,9 @@
   --background-color: #f1f1f1;
 
   --text-color: var(--color-gray-90);
-  --text-color-link: #273f4b;
-  --text-color-link-visited: #2b4c5d;
-  --text-color-link-hover: #a1afba;
+  --text-color-link: #4A4E69;
+  --text-color-link-visited: #9A8C98;
+  --text-color-link-hover: #C9ADA7;
 }
 
 @media (prefers-color-scheme: dark) {
