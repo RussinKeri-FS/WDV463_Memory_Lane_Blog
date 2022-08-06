@@ -5,7 +5,6 @@
 [Eleventy](https://github.com/11ty/eleventy) static site generator and method of deployment is [Netlify](https://www.netlify.com/).
 
 Memory Lane Blog will be hosted at this address:  https://prismatic-pothos-2903c0.netlify.app/ 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3908d0ee-8b49-4710-931d-9f5fe99d9e1c/deploy-status)](https://app.netlify.com/sites/prismatic-pothos-2903c0/deploys)
 
 ---
 
