@@ -8,20 +8,16 @@ tags:
 layout: layouts/post.njk
 ---
 
-{% image "./img/React-js-1.png", "React design graphic image", "(min-width: 30em) 50vw, 100vw" %}
-
-## Brief History of React.js
-
-Facebook created React.js in 2011 for their use. We know that Facebook is one of the biggest Social Networking websites in the world.
+&emsp;Facebook created React.js in 2011 for their use. We know that Facebook is one of the biggest Social Networking websites in the world.
 <br />
-In 2012, Instagram started using it as well, which is a subsidiary of Facebook.
+&emsp;In 2012, Instagram started using it as well, which is a subsidiary of Facebook.
 <br />
-In 2013, Facebook made React.js an open-source. The developer community rejected it at first because it used Markup and JavaScript in a single file. But the more people who experimented with it started embracing the component.
+&emsp;In 2013, Facebook made React.js an open-source. The developer community rejected it at first because it used Markup and JavaScript in a single file. But the more people who experimented with it started embracing the component.
 <br />
-In 2014, there were many large companies starting to use React.js in their production environments.
+&emsp;In 2014, there were many large companies starting to use React.js in their production environments.
 <br />
-In 2015, Facebook decided to open-source React-Native. It is a library that allows us to create native mobile apps in Android and iOS using React.js.
+&emsp;In 2015, Facebook decided to open-source React-Native. It is a library that allows us to create native mobile apps in Android and iOS using React.js.
 <br />
-In 2016, version 15 was released. React.js started using Semantic Versioning. This really helped to convey to the developer's community that React was more stable.
+&emsp;In 2016, version 15 was released. React.js started using Semantic Versioning. This really helped to convey to the developer's community that React was more stable.
 <br />
-Today, React.js is used by many Fortune 500 companies. Facebook currently has a full-time React development staff. The staff regularly releases bug fixes, enhancements, blog posts, and documentation to the community.
+&emsp;Today, React.js is used by many Fortune 500 companies. Facebook currently has a full-time React development staff. The staff regularly releases bug fixes, enhancements, blog posts, and documentation to the community.
