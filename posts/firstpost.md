@@ -10,8 +10,6 @@ layout: layouts/post.njk
 
 ---
 
-{% image "./img/React-js-1.png", "A React image", (min-width: 30em) 50vw, 100vw %}
-
 Facebook created React.js in 2011 for their use. We know that Facebook is one of the biggest Social Networking websites in the world.
 <br />
 In 2012, Instagram started using it as well, which is a subsidiary of Facebook.
