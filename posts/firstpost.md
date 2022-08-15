@@ -33,4 +33,3 @@ React is flexible. Once you get the hang of it, you can begin using it on a vast
 React's single focus is to create components for web applications. React components can be anything from buttons, text, labels, or grid.
 
 React has a great developer experience. You'll fall in love with React when you starting coding in it.React's small API creates a amazing developer experience.
-
