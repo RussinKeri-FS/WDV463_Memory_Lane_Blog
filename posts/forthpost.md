@@ -11,8 +11,6 @@ layout: layouts/post.njk
 
 ---
 
-{% image "../img/REST-API.webp", "REST API image", "(min-width:30em) 50vw, 100vw" %}
-
 When you work with APIs you can come up with some neat and creative ideas for your website.
 
 ### Benefits
