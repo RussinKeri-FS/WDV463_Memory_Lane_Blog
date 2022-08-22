@@ -9,6 +9,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+<img src = "https://miro.medium.com/max/784/1*os8GCDBwN3dqnMudzOklGA.png" style = “display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
+
 ---
 
 When you work with APIs you can come up with some neat and creative ideas for your website.
