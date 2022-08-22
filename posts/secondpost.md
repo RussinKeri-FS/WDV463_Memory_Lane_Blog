@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="https://www.thebalancecareers.com/thmb/FDh8qXdM3B8zOvKiejYoz8zVrjY=/1500x1000/filters:fill(auto,1)/web-developer-job-description-salary-and-skills-2061841_final-edit-01-ac18fd4e99df46e990e4277a821faa0f.jpg" alt="ReactJS Image" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
+<img src="https://www.thebalancecareers.com/thmb/FDh8qXdM3B8zOvKiejYoz8zVrjY=/1500x1000/filters:fill(auto,1)/web-developer-job-description-salary-and-skills-2061841_final-edit-01-ac18fd4e99df46e990e4277a821faa0f.jpg" alt="Web Developer" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
 
 ---
 

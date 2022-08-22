@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/web-developer-salaries-by-job-title.jpg" alt="ReactJS Image" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
+<img src="https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/web-developer-salaries-by-job-title.jpg" alt="Salary Chart Web Developer" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
 
 ---
 
