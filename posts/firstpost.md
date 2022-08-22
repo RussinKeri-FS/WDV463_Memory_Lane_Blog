@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="React-js-1.png" alt="ReactJS Image" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
+<img src="https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png" alt="ReactJS Image" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
 
 ---
 
