@@ -8,6 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+<img src="React-js-1.png" alt="ReactJS Image" style="display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
+
 ---
 
 ## Brief History of React.js

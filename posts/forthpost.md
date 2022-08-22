@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src = "https://miro.medium.com/max/784/1*os8GCDBwN3dqnMudzOklGA.png" style = “display: grid; margin-top: 10%; margin-bottom: 5%; width: 50%">
+
 
 ---
 
